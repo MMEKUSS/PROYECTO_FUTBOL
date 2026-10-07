@@ -101,8 +101,4 @@ CORRECCIONES PRINCIPALES REALIZADAS
 - Se ordenó el flujo para que siga una lógica de extracción → limpieza → normalización → integración → comprobación → SQL.
 - Se añadió una comprobación de nulos, duplicados y tipos antes de pasar a SQL.
 
-NOTA SOBRE LOS CAMBIOS
-
-El único cambio conceptual relevante está en la normalización de la columna liga. En la primera parte del proyecto aparecían códigos como FL1, BL1, PD, PL y SA, mientras que la extracción automática posterior genera nombres como “Premier League 2024-2025”. La normalización de la versión ordenada se adapta al valor que realmente genera el método automatizado.
-
-No se ha cambiado la función original del usuario.
+![alt text](image.png)
