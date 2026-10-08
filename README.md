@@ -101,4 +101,4 @@ CORRECCIONES PRINCIPALES REALIZADAS
 - Se ordenó el flujo para que siga una lógica de extracción → limpieza → normalización → integración → comprobación → SQL.
 - Se añadió una comprobación de nulos, duplicados y tipos antes de pasar a SQL.
 
-![alt text](image.png)
+![alt text](image-1.png)
